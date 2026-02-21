@@ -1,8 +1,0 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://seasonweb005-hash.github.io/Demo_Site_Dentaire/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
